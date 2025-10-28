@@ -1,4 +1,4 @@
-# 🎓 Ciência da Computação -- Universidade Anhembi Morumbi
+## 🎓 Ciência da Computação -- Universidade Anhembi Morumbi
 
 Repositório dedicado às atividades, projetos e exercícios desenvolvidos
 ao longo da graduação em **Ciência da Computação** pela **Universidade
@@ -6,8 +6,6 @@ Anhembi Morumbi**.\
 Este espaço tem como objetivo documentar minha jornada acadêmica,
 registrando minha evolução técnica e o aprendizado adquirido em cada
 semestre.
-
-------------------------------------------------------------------------
 
 ## 🧩 Estrutura do Curso
 
@@ -19,8 +17,6 @@ O curso tem duração mínima de **8 semestres** e totaliza **3.200
 horas**, abrangendo desde fundamentos da computação até temas avançados
 como **Inteligência Artificial**, **Sistemas Distribuídos**,
 **Computação Gráfica** e **Big Data**.
-
-------------------------------------------------------------------------
 
 ## 📘 1º Semestre (Atual)
 
@@ -45,8 +41,6 @@ processo e diagramas UML.\
 A disciplina prepara o aluno para compreender e projetar soluções de
 software de forma estruturada e eficiente.
 
-------------------------------------------------------------------------
-
 ## 🗂️ Organização do Repositório
 
 ``` bash
@@ -54,9 +48,6 @@ software de forma estruturada e eficiente.
  ├── 1º-semestre/
  │   ├── programacao-de-solucoes-computacionais/
  │   └── modelagem-de-software/
- ├── projetos/
- │   ├── extensao/
- │   └── integradores/
  └── README.md
 ```
 
@@ -67,9 +58,8 @@ suas respectivas disciplinas.
 
 ## 💻 Tecnologias e Ferramentas Utilizadas
 
--   **Linguagens:** C, Python, JavaScript\
--   **Ferramentas:** Git, VS Code, Draw.io, Lucidchart\
--   **Conceitos:** Algoritmos, Estruturas de Controle, Modelagem UML,
+-   **Linguagens:** Java
+-   **Conceitos:** Algoritmos, Orientação a objetos, DER, MER, Modelagem UML,
     Lógica de Programação
 
 ------------------------------------------------------------------------
@@ -93,9 +83,8 @@ Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
 **Matheus Nascimento**\
 📍 São Paulo, SP\
-🔗 [LinkedIn](https://linkedin.com/in/matheusnascimentodev)\
-💻 [Portfólio -- DevParadise](https://devparadise.vercel.app)\
-✉️ matheus.dev@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/matheusnascimentods/)\
+✉️ matheusnascimentods@outlook.com
 
 ------------------------------------------------------------------------
 
